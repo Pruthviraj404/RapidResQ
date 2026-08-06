@@ -1,4 +1,4 @@
-package com.rapidresq.rapidresq_backend.ambulance.entity.dto;
+package com.rapidresq.rapidresq_backend.ambulance.dto;
 
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;

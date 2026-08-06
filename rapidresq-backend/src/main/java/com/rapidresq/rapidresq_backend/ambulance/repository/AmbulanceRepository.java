@@ -1,4 +1,4 @@
-package com.rapidresq.rapidresq_backend.ambulance.entity.repository;
+package com.rapidresq.rapidresq_backend.ambulance.repository;
 
 import com.rapidresq.rapidresq_backend.ambulance.entity.Ambulance;
 import com.rapidresq.rapidresq_backend.ambulance.entity.AmbulanceType;
